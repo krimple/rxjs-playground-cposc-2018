@@ -1,0 +1,17 @@
+[
+  {
+    "title": "As You Like It",
+    "author": "William Shakespeare",
+    "url": "asyoulikeit.txt"
+  },
+  {
+    "title": "Beowulf",
+    "author": "Anonymous",
+    "url": "beowulf.txt"
+  },
+  {
+    "title": "EnemyOfThePeople",
+    "author": "Henrik Ibsen",
+    "url": "enemyofthepeople.txt"
+  }
+]
